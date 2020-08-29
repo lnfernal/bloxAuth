@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/uhteddy/bloxAuth/issues"
   },
-  "homepage": "https://github.com/uhteddy/bloxAuth#readme"
+  "homepage": "https://github.com/uhteddy/bloxAuth#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
 }
