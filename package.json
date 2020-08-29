@@ -1,0 +1,27 @@
+{
+  "name": "bloxauth",
+  "version": "0.0.1",
+  "description": "A third-party Roblox SSO.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uhteddy/bloxAuth.git"
+  },
+  "keywords": [
+    "roblox",
+    "oauth",
+    "sso",
+    "login",
+    "link",
+    "account"
+  ],
+  "author": "uhTeddy, echesol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uhteddy/bloxAuth/issues"
+  },
+  "homepage": "https://github.com/uhteddy/bloxAuth#readme"
+}
